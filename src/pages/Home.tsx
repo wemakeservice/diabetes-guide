@@ -72,7 +72,7 @@ export default function Home() {
                 건강한 식단
               </dt>
               <dd className="mt-2 text-base leading-7 text-gray-600">
-                혈당 스파이크를 방지하는 저GI 식품 위주의 식단과 규칙적인 식사 시간을 유지하세요.
+                혈당 스파이크를 방지하는 저당지수(GI) 식품 위주의 식단과 규칙적인 식사 시간을 유지하세요.
               </dd>
             </div>
           </dl>
