@@ -19,8 +19,8 @@ export default function Contact() {
             <p className="text-gray-600 text-center mb-4">
               가장 확실하고 빠른 답변을 받을 수 있는 방법입니다.
             </p>
-            <a href="mailto:support@diabetes-guide.com" className="text-blue-600 font-semibold hover:underline">
-              support@diabetes-guide.com
+            <a href="mailto:wemakeservices@gmail.com" className="text-blue-600 font-semibold hover:underline">
+              wemakeservices@gmail.com
             </a>
           </div>
 

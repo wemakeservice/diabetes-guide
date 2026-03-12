@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
 
           <h2 className="mt-10 text-2xl font-bold tracking-tight text-gray-900">5. 개인정보 보호책임자</h2>
           <p className="mt-4">
-            이용자는 서비스 이용 중 발생하는 모든 개인정보 보호 관련 민원을 개인정보 보호책임자 혹은 담당부서로 신고하실 수 있습니다. (문의: support@diabetes-guide.com)
+            이용자는 서비스 이용 중 발생하는 모든 개인정보 보호 관련 민원을 개인정보 보호책임자 혹은 담당부서로 신고하실 수 있습니다. (문의: wemakeservices@gmail.com)
           </p>
         </div>
       </div>
