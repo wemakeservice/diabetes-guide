@@ -9,7 +9,7 @@ export default function Home() {
         <div className="mx-auto max-w-2xl py-20 sm:py-32">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl text-balance">
-              당신의 건강한 혈당을 위한 첫걸음
+              당신의 건강한 <span className="whitespace-nowrap">혈당</span>을 위한 첫걸음
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               당뇨병은 관리가 생명입니다. 위험성과 예방 방법을 숙지하고, 건강한 식단을 통해 혈당을 안정적으로 유지하세요.
